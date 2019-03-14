@@ -1,4 +1,9 @@
 
 LBB~~~~~
 通过dev1分支修改HELLO文本
+<<<<<<< HEA
 我是master我也修改一下
+=======
+了解版本冲突
+>>>>>>> dev2
+git branch -- add master version
